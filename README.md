@@ -56,7 +56,7 @@ and responsive UI.
 1.  **Clone the repository**
 
     ``` bash
-    git clone <repository-url>
+    git clone https://github.com/KathullaYamini/To-do-List-Application.git
     ```
 
 2.  **Navigate to the project folder**
