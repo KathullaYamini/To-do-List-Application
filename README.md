@@ -20,9 +20,7 @@ and responsive UI.
 
 ## Demo
 
-
-[Click here to watch the demo video](#)
-`<!-- Replace # with the demo video link -->`{=html}
+👉 [Watch the demo video here](https://drive.google.com/file/d/1e-9BDPnkdhj1zuJ7KhxT67klDpMDP-UQ/view?usp=drive_link)
 
 ------------------------------------------------------------------------
 
